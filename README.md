@@ -1,0 +1,2 @@
+# workspace
+A boilerplate workspace
