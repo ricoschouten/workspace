@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "github.vscode-github-actions",
+        "ms-vsliveshare.vsliveshare",
+        "eamodio.gitlens",
+        "redhat.vscode-yaml",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens",
+        "christian-kohler.path-intellisense",
+        "bierner.github-markdown-preview",
+        "hediet.vscode-drawio",
+    ]
+}
